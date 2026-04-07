@@ -168,6 +168,7 @@ Create a presentation on Artificial Intelligence
 ```
 
 ## 📈 Output
+Demo video: https://drive.google.com/file/d/1S_ouV43sgklWktAtp_-fEcQLbPDXixp9/view?usp=sharing
 
 ✔ 5–6 slides
 ✔ Each slide contains:
